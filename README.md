@@ -8,7 +8,7 @@ Faites-y afficher la phrase que vous allez bientôt utiliser en permanence : Hel
 *Bonus* : Faites apparaitre dans le nom de l'onglet (le petit rectangle tout en haut) le mot "Succeed !".
 
 
-### Énoncé
+### Théorie
 
 HTML est le langage de base pour la programmation web. Il est le point de départ pour commencer la programmation et il est le résultat final de requêtes, animations, et autres actions que l'on découvrira ensemble. 
 
